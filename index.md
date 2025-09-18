@@ -77,3 +77,10 @@ layout: default
 
 　　希望这份指南能帮你扫清障碍。毕竟，一张顺畅的手机卡，连接的不只是网络，更是你在异国他乡的从容和安全感。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Guinea eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/guinea-data-plans)
